@@ -1,4 +1,4 @@
-**Hello, I'm Aniket Warhade**
+**Hello 👋, I'm Aniket Warhade**
 
 - 👋 Computer Engineer graduate from College of Engineering, Pune(COEP).
 - 👀 I love to work with end to end applications and develop code to automate and build stuff. 
